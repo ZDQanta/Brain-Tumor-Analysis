@@ -1,7 +1,6 @@
 # Brain Tumor Analysis: A Deep Learning Application for Classification, Detection, and Segmentation
 
 ![MATLAB](https://img.shields.io/badge/Platform-MATLAB-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This project, developed for the "Deep Learning" course at Düzce University's Department of Computer Engineering, provides a comprehensive analysis of brain tumors from MRI (Magnetic Resonance Imaging) scans. Developed in MATLAB with the Deep Learning Toolbox, the project features a user-friendly GUI. The analysis is performed in two main stages:
 1.  **Classification**: To determine if an MRI scan contains a tumor ("yes") or not ("no").
