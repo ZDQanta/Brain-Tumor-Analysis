@@ -36,7 +36,7 @@ This project, developed for the "Deep Learning" course at Düzce University's De
 
 | Başlangıç Ekranı | Sınıflandırma Sonucu | YOLOv2 Tespit Sonucu | Morfolojik Segmentasyon |
 | :---: | :---: | :---: | :---: |
-<img src="https://github.com/user-attachments/assets/5adc3011-2ed9-4322-beb8-87777bda8e16"/> |  <img src=https://github.com/user-attachments/assets/eef85c47-13f4-4a51-b93b-5bced30270e2" width="200"/> | <img src="https://github.com/user-attachments/assets/c86a75fa-b5ba-43f8-bc87-694112cef880" width="200"/> | <img src="https://github.com/user-attachments/assets/49e3d80c-ba2d-43e4-8a43-da0742545581" width="200"/> | 
+<img src="https://github.com/user-attachments/assets/5adc3011-2ed9-4322-beb8-87777bda8e16"/> |  <img src="https://github.com/user-attachments/assets/eef85c47-13f4-4a51-b93b-5bced30270e2" width="200"/> | <img src="https://github.com/user-attachments/assets/c86a75fa-b5ba-43f8-bc87-694112cef880" width="200"/> | <img src="https://github.com/user-attachments/assets/49e3d80c-ba2d-43e4-8a43-da0742545581" width="200"/> | 
 
 
 
